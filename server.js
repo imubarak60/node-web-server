@@ -114,7 +114,7 @@ Promise.all([
     .catch(err => {
       console.log("got this error: ",err.message);
     })
-})
+});
 app.listen(port, () => {
   console.log('Server is on port '+port);
 });
