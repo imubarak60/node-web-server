@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.0",
-    "hbs": "^4.0.0"
+    "hbs": "^4.0.0",
+    "rave": "^0.4.5"
   }
 }
